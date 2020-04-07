@@ -1,0 +1,43 @@
+*{
+    padding-left: 0px;
+}
+
+/* HEADER */
+
+.wrapper{
+    background-color: #7eb8da;
+    width: 100%;
+    padding: 10px;
+}
+
+.wrapper, div{
+    display: inline-block;
+}
+
+.title{
+    margin-left: 10px;
+}
+
+.dropbox{
+    background-color: #92ddea;
+    margin-left: 50%;
+}
+
+.dropbox:hover{
+    background-color: #be9ddf;
+}
+
+/* MAIN */
+
+agm-map{
+    height: 500px;
+    width: 100%;
+}
+
+/* FOOTER */
+
+/* .footer{
+    height: 74px;
+    width: 100%;
+    background-color: #7eb8da;
+} */
